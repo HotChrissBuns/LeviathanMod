@@ -1,0 +1,34 @@
+
+SMODS.Back {
+    key = 'under_the_stairs',
+    pos = { x = 7, y = 0 },
+    config = {
+    },
+    loc_txt = {
+        name = 'Under the stairs',
+        text = {
+            [1] = 'Start with a {C:dark_edition}Negative{} {C:attention}eternal{} {C:common}white van{}'
+        },
+    },
+    unlocked = true,
+    discovered = true,
+    no_collection = false,
+    atlas = 'CustomDecks',
+    apply = function(self, back)
+        G.E_MANAGER:add_event(Event({
+            func = function()
+                play_sound('timpani')
+                if #G.jokers.cards + G.GAME.joker_buffer < G.jokers.config.card_limit then
+                    G.GAME.joker_buffer = G.GAME.joker_buffer + 1
+                    local new_joker = SMODS.add_card({ set = 'Joker', key = 'j_TDL6615_whitevan' })
+                    if new_joker then
+                        new_joker:set_edition("e_negative", true)
+                        new_joker:add_sticker('eternal', true)
+                    end
+                    G.GAME.joker_buffer = 0
+                end
+                return true
+            end
+        }))
+    end
+}

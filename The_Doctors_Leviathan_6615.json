@@ -1,0 +1,17 @@
+{
+  "id": "The_Doctors_Leviathan_6615",
+  "name": "Leviathan",
+  "author": [
+    "TheDoctor6615"
+  ],
+  "description": "Unbalanced and Unstoppable, TheDoctor6615 has released his Leviathan upon Balatro. Thanks to Medieval Steve for his help with this Mod!",
+  "prefix": "TDL6615",
+  "main_file": "Leviathan_main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "009959",
+  "badge_text_colour": "E1F502",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
