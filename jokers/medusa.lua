@@ -15,8 +15,8 @@ SMODS.Joker{ --Medusa
         }
     },
     pos = {
-        x = 6,
-        y = 6
+        x = 1,
+        y = 7
     },
     display_size = {
         w = 71 * 1, 

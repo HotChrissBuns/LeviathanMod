@@ -15,8 +15,8 @@ SMODS.Joker{ --Sometimes maybe good , some times maybe shit
         }
     },
     pos = {
-        x = 5,
-        y = 8
+        x = 2,
+        y = 9
     },
     display_size = {
         w = 71 * 1, 

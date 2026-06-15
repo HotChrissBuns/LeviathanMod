@@ -15,8 +15,8 @@ SMODS.Joker{ --Ka - Chow
         }
     },
     pos = {
-        x = 7,
-        y = 5
+        x = 2,
+        y = 6
     },
     display_size = {
         w = 71 * 1, 

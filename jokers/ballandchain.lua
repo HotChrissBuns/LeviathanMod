@@ -17,7 +17,7 @@ SMODS.Joker{ --Ball and Chain
         }
     },
     pos = {
-        x = 4,
+        x = 8,
         y = 1
     },
     display_size = {

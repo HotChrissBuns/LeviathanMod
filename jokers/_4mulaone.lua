@@ -16,7 +16,7 @@ SMODS.Joker{ --4mula One
         }
     },
     pos = {
-        x = 4,
+        x = 9,
         y = 4
     },
     display_size = {

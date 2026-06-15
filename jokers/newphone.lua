@@ -16,8 +16,8 @@ SMODS.Joker{ --New Phone
         }
     },
     pos = {
-        x = 9,
-        y = 5
+        x = 4,
+        y = 6
     },
     display_size = {
         w = 71 * 1, 

@@ -16,7 +16,7 @@ SMODS.Joker{ --Wax on - Wax off
         }
     },
     pos = {
-        x = 4,
+        x = 9,
         y = 6
     },
     display_size = {

@@ -15,8 +15,8 @@ SMODS.Joker{ --Copy Cat
         }
     },
     pos = {
-        x = 4,
-        y = 8
+        x = 0,
+        y = 9
     },
     display_size = {
         w = 71 * 1, 
@@ -34,11 +34,12 @@ SMODS.Joker{ --Copy Cat
     
     calculate = function(self, card, context)
         
-        local target_joker = nil
-        
-        if target_joker == card then
+        local target_joker = G.jokers.cards[#G.jokers.cards]
+
+    	-- don't copy itself
+    	if target_joker == card then
             target_joker = nil
-        end
+    	end
         
         local ret = SMODS.blueprint_effect(card, target_joker, context)
         if ret then

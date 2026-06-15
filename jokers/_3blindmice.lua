@@ -16,7 +16,7 @@ SMODS.Joker{ --3 Blind Mice
         }
     },
     pos = {
-        x = 3,
+        x = 8,
         y = 4
     },
     display_size = {

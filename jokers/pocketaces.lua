@@ -16,7 +16,7 @@ SMODS.Joker{ --Pocket Aces
     },
     pos = {
         x = 8,
-        y = 8
+        y = 9
     },
     display_size = {
         w = 71 * 1, 

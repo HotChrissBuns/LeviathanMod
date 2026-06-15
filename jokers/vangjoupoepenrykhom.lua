@@ -20,7 +20,7 @@ SMODS.Joker{ --Vang jou poep en ryk hom
         }
     },
     pos = {
-        x = 1,
+        x = 5,
         y = 0
     },
     display_size = {

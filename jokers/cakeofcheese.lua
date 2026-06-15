@@ -17,7 +17,7 @@ SMODS.Joker{ --Cake of Cheese
         }
     },
     pos = {
-        x = 2,
+        x = 7,
         y = 8
     },
     display_size = {

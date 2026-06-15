@@ -17,7 +17,7 @@ SMODS.Joker{ --Is it because of my hands
         }
     },
     pos = {
-        x = 4,
+        x = 8,
         y = 3
     },
     display_size = {

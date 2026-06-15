@@ -15,8 +15,8 @@ SMODS.Joker{ --Oumas Couch
         }
     },
     pos = {
-        x = 7,
-        y = 2
+        x = 1,
+        y = 3
     },
     display_size = {
         w = 71 * 1, 

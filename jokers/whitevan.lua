@@ -15,7 +15,7 @@ SMODS.Joker{ --White Van
         }
     },
     pos = {
-        x = 5,
+        x = 9,
         y = 0
     },
     display_size = {

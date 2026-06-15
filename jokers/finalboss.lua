@@ -17,8 +17,8 @@ SMODS.Joker{ --Final Boss
         }
     },
     pos = {
-        x = 1,
-        y = 10
+        x = 4,
+        y = 11
     },
     display_size = {
         w = 71 * 1, 

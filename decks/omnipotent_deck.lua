@@ -1,7 +1,7 @@
 
 SMODS.Back {
     key = 'omnipotent_deck',
-    pos = { x = 2, y = 1 },
+    pos = { x = 5, y = 1 },
     config = {
     },
     loc_txt = {

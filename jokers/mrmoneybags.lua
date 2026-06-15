@@ -16,8 +16,8 @@ SMODS.Joker{ --Mr Money Bags
         }
     },
     pos = {
-        x = 8,
-        y = 5
+        x = 3,
+        y = 6
     },
     display_size = {
         w = 71 * 1, 

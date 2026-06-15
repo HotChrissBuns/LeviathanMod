@@ -16,7 +16,7 @@ SMODS.Joker{ --2 - Faced
         }
     },
     pos = {
-        x = 2,
+        x = 7,
         y = 4
     },
     display_size = {

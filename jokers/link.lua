@@ -16,8 +16,8 @@ SMODS.Joker{ --Link
         }
     },
     pos = {
-        x = 7,
-        y = 7
+        x = 2,
+        y = 8
     },
     display_size = {
         w = 71 * 1, 

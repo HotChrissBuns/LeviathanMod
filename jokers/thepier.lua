@@ -16,7 +16,7 @@ SMODS.Joker{ --The Pier
         }
     },
     pos = {
-        x = 3,
+        x = 8,
         y = 6
     },
     display_size = {

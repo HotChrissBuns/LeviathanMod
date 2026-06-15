@@ -79,6 +79,10 @@ local function load_folder(path)
 end
 -- load the jokers
 if true then
+    assert(SMODS.load_file("jokers/snoop.lua"))()
+    assert(SMODS.load_file("jokers/notv.lua"))()
+    assert(SMODS.load_file("jokers/sherlock.lua"))()
+    assert(SMODS.load_file("jokers/pooperscoop.lua"))()
     assert(SMODS.load_file("jokers/glasscoke.lua"))()
     assert(SMODS.load_file("jokers/vangjoupoepenrykhom.lua"))()
     assert(SMODS.load_file("jokers/areyousix.lua"))()
@@ -118,6 +122,7 @@ if true then
     assert(SMODS.load_file("jokers/crazycarrot.lua"))()
     assert(SMODS.load_file("jokers/monke.lua"))()
     assert(SMODS.load_file("jokers/onthespectrum.lua"))()
+    assert(SMODS.load_file("jokers/madscientist.lua"))()
     assert(SMODS.load_file("jokers/monsterhouse.lua"))()
     assert(SMODS.load_file("jokers/deeznuts.lua"))()
     assert(SMODS.load_file("jokers/dodgecoin.lua"))()
@@ -162,10 +167,15 @@ if true then
     assert(SMODS.load_file("jokers/favoritechild.lua"))()
     assert(SMODS.load_file("jokers/hotchocolate.lua"))()
     assert(SMODS.load_file("jokers/cakeofcheese.lua"))()
+    assert(SMODS.load_file("jokers/bangbang.lua"))()
     assert(SMODS.load_file("jokers/plagiarism.lua"))()
     assert(SMODS.load_file("jokers/copycat.lua"))()
+    assert(SMODS.load_file("jokers/olivertwist.lua"))()
     assert(SMODS.load_file("jokers/sometimesmaybegoodsometimesmaybeshit.lua"))()
     assert(SMODS.load_file("jokers/clive.lua"))()
+    assert(SMODS.load_file("jokers/tinfoil.lua"))()
+    assert(SMODS.load_file("jokers/hologramharry.lua"))()
+    assert(SMODS.load_file("jokers/polygamist.lua"))()
     assert(SMODS.load_file("jokers/ticktock.lua"))()
     assert(SMODS.load_file("jokers/pocketaces.lua"))()
     assert(SMODS.load_file("jokers/again.lua"))()
@@ -175,8 +185,11 @@ if true then
     assert(SMODS.load_file("jokers/powerball.lua"))()
     assert(SMODS.load_file("jokers/escobar.lua"))()
     assert(SMODS.load_file("jokers/creeper.lua"))()
+    assert(SMODS.load_file("jokers/chilcheese.lua"))()
     assert(SMODS.load_file("jokers/fourhorseman.lua"))()
     assert(SMODS.load_file("jokers/goodmythicalmorning.lua"))()
+    assert(SMODS.load_file("jokers/mrbighands.lua"))()
+    assert(SMODS.load_file("jokers/onemoretime.lua"))()
     assert(SMODS.load_file("jokers/thegiftthatkeepsongiving.lua"))()
     assert(SMODS.load_file("jokers/nice.lua"))()
     assert(SMODS.load_file("jokers/sumis.lua"))()
@@ -196,6 +209,7 @@ if true then
     assert(SMODS.load_file("consumables/kraggakamma.lua"))()
     assert(SMODS.load_file("consumables/butiwontdothat.lua"))()
     assert(SMODS.load_file("consumables/thekidnapped.lua"))()
+    assert(SMODS.load_file("consumables/passiveincome.lua"))()
     assert(SMODS.load_file("consumables/judgement.lua"))()
     assert(SMODS.load_file("consumables/ineffable.lua"))()
     assert(SMODS.load_file("consumables/bookofra.lua"))()
@@ -231,6 +245,9 @@ if true then
     assert(SMODS.load_file("decks/the_four_horseman.lua"))()
     assert(SMODS.load_file("decks/turbo_deck.lua"))()
     assert(SMODS.load_file("decks/random_randy.lua"))()
+    assert(SMODS.load_file("decks/no_going_back_now.lua"))()
+    assert(SMODS.load_file("decks/odd_todd_deck.lua"))()
+    assert(SMODS.load_file("decks/imagination.lua"))()
     assert(SMODS.load_file("decks/omnipotent_deck.lua"))()
 end
 
@@ -261,6 +278,10 @@ SMODS.ObjectType({
 SMODS.ObjectType({
     key = "TDL6615_TDL6615_jokers",
     cards = {
+        ["j_TDL6615_snoop"] = true,
+        ["j_TDL6615_notv"] = true,
+        ["j_TDL6615_sherlock"] = true,
+        ["j_TDL6615_pooperscoop"] = true,
         ["j_TDL6615_glasscoke"] = true,
         ["j_TDL6615_vangjoupoepenrykhom"] = true,
         ["j_TDL6615_areyousix"] = true,
@@ -298,6 +319,7 @@ SMODS.ObjectType({
         ["j_TDL6615_crazycarrot"] = true,
         ["j_TDL6615_monke"] = true,
         ["j_TDL6615_onthespectrum"] = true,
+        ["j_TDL6615_madscientist"] = true,
         ["j_TDL6615_monsterhouse"] = true,
         ["j_TDL6615_deeznuts"] = true,
         ["j_TDL6615_dodgecoin"] = true,
@@ -338,10 +360,15 @@ SMODS.ObjectType({
         ["j_TDL6615_favoritechild"] = true,
         ["j_TDL6615_hotchocolate"] = true,
         ["j_TDL6615_cakeofcheese"] = true,
+        ["j_TDL6615_bangbang"] = true,
         ["j_TDL6615_plagiarism"] = true,
         ["j_TDL6615_copycat"] = true,
+        ["j_TDL6615_olivertwist"] = true,
         ["j_TDL6615_sometimesmaybegoodsometimesmaybeshit"] = true,
         ["j_TDL6615_clive"] = true,
+        ["j_TDL6615_tinfoil"] = true,
+        ["j_TDL6615_hologramharry"] = true,
+        ["j_TDL6615_polygamist"] = true,
         ["j_TDL6615_ticktock"] = true,
         ["j_TDL6615_pocketaces"] = true,
         ["j_TDL6615_again"] = true,
@@ -351,8 +378,11 @@ SMODS.ObjectType({
         ["j_TDL6615_powerball"] = true,
         ["j_TDL6615_escobar"] = true,
         ["j_TDL6615_creeper"] = true,
+        ["j_TDL6615_chilcheese"] = true,
         ["j_TDL6615_fourhorseman"] = true,
         ["j_TDL6615_goodmythicalmorning"] = true,
+        ["j_TDL6615_mrbighands"] = true,
+        ["j_TDL6615_onemoretime"] = true,
         ["j_TDL6615_thegiftthatkeepsongiving"] = true,
         ["j_TDL6615_nice"] = true,
         ["j_TDL6615_sumis"] = true,

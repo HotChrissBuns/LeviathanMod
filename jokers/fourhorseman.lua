@@ -15,8 +15,8 @@ SMODS.Joker{ --Four horseman
         }
     },
     pos = {
-        x = 6,
-        y = 9
+        x = 7,
+        y = 10
     },
     display_size = {
         w = 71 * 1, 

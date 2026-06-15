@@ -16,7 +16,7 @@ SMODS.Joker{ --glass coke
         }
     },
     pos = {
-        x = 0,
+        x = 4,
         y = 0
     },
     display_size = {

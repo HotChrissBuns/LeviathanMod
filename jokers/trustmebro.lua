@@ -18,7 +18,7 @@ SMODS.Joker{ --Trust Me bro
         }
     },
     pos = {
-        x = 4,
+        x = 8,
         y = 2
     },
     display_size = {

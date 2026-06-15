@@ -18,8 +18,8 @@ SMODS.Joker{ --On the Bluff
         }
     },
     pos = {
-        x = 5,
-        y = 7
+        x = 0,
+        y = 8
     },
     display_size = {
         w = 71 * 1, 

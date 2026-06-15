@@ -15,8 +15,8 @@ SMODS.Joker{ --Man Cave
         }
     },
     pos = {
-        x = 8,
-        y = 6
+        x = 3,
+        y = 7
     },
     display_size = {
         w = 71 * 1, 

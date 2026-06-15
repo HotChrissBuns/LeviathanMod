@@ -16,8 +16,8 @@ SMODS.Joker{ --The Gift that keeps on giving
         }
     },
     pos = {
-        x = 8,
-        y = 9
+        x = 1,
+        y = 11
     },
     display_size = {
         w = 71 * 1, 

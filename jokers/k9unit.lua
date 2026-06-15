@@ -16,8 +16,8 @@ SMODS.Joker{ --K9 unit
         }
     },
     pos = {
-        x = 9,
-        y = 4
+        x = 4,
+        y = 5
     },
     display_size = {
         w = 71 * 1, 

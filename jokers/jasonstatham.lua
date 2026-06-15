@@ -15,7 +15,7 @@ SMODS.Joker{ --Jason Statham
         }
     },
     pos = {
-        x = 1,
+        x = 5,
         y = 3
     },
     display_size = {
