@@ -2,7 +2,7 @@
 SMODS.Consumable {
     key = 'ineffable',
     set = 'Spectral',
-    pos = { x = 8, y = 0 },
+    pos = { x = 9, y = 0 },
     config = { 
         extra = {
             dollars0 = 5   

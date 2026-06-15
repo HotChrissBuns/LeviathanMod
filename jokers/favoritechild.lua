@@ -16,7 +16,7 @@ SMODS.Joker{ --Favorite Child
         }
     },
     pos = {
-        x = 0,
+        x = 5,
         y = 8
     },
     display_size = {

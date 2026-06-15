@@ -2,7 +2,7 @@
 SMODS.Consumable {
     key = 'nolongerthirsty',
     set = 'Spectral',
-    pos = { x = 0, y = 1 },
+    pos = { x = 1, y = 1 },
     loc_txt = {
         name = 'No Longer thirsty',
         text = {

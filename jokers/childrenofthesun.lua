@@ -15,7 +15,7 @@ SMODS.Joker{ --Children of the Sun
         }
     },
     pos = {
-        x = 5,
+        x = 9,
         y = 1
     },
     display_size = {

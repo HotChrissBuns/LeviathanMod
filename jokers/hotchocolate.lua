@@ -17,7 +17,7 @@ SMODS.Joker{ --Hot Chocolate
         }
     },
     pos = {
-        x = 1,
+        x = 6,
         y = 8
     },
     display_size = {

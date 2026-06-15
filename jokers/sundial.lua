@@ -17,8 +17,8 @@ SMODS.Joker{ --Sundial
         }
     },
     pos = {
-        x = 9,
-        y = 0
+        x = 3,
+        y = 1
     },
     display_size = {
         w = 71 * 1, 

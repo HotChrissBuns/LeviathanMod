@@ -16,7 +16,7 @@ SMODS.Joker{ --Are you six
         }
     },
     pos = {
-        x = 2,
+        x = 6,
         y = 0
     },
     display_size = {

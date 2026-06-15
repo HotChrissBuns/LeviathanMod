@@ -2,7 +2,7 @@
 SMODS.Consumable {
     key = 'bookofra',
     set = 'Spectral',
-    pos = { x = 9, y = 0 },
+    pos = { x = 0, y = 1 },
     loc_txt = {
         name = 'Book of RA',
         text = {

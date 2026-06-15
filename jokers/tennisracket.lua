@@ -16,7 +16,7 @@ SMODS.Joker{ --Tennis Racket
         }
     },
     pos = {
-        x = 0,
+        x = 5,
         y = 5
     },
     display_size = {

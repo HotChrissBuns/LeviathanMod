@@ -18,8 +18,8 @@ SMODS.Joker{ --Open The Door
         }
     },
     pos = {
-        x = 9,
-        y = 2
+        x = 3,
+        y = 3
     },
     display_size = {
         w = 71 * 1, 

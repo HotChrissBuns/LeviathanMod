@@ -19,8 +19,8 @@ SMODS.Joker{ --Leviathan
         }
     },
     pos = {
-        x = 6,
-        y = 10
+        x = 9,
+        y = 11
     },
     display_size = {
         w = 71 * 1, 

@@ -17,7 +17,7 @@ SMODS.Consumable {
     atlas = 'CustomConsumables',
     use = function(self, card, area, copier)
         local used_card = copier or card
-        if (to_big(#G.hand.highlighted) > to_big(1) and to_big(#G.hand.highlighted) <= to_big(2)) then
+        if (to_big(#G.hand.highlighted) > to_big(0) and to_big(#G.hand.highlighted) <= to_big(2)) then
             G.E_MANAGER:add_event(Event({
                 trigger = 'after',
                 delay = 0.4,
@@ -76,6 +76,6 @@ SMODS.Consumable {
         end
     end,
     can_use = function(self, card)
-        return ((to_big(#G.hand.highlighted) > to_big(1) and to_big(#G.hand.highlighted) <= to_big(2)))
+        return ((to_big(#G.hand.highlighted) > to_big(0) and to_big(#G.hand.highlighted) <= to_big(2)))
     end
 }

@@ -16,7 +16,7 @@ SMODS.Joker{ --Deez Nuts
         }
     },
     pos = {
-        x = 0,
+        x = 5,
         y = 4
     },
     display_size = {

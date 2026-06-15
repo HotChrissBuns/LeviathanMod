@@ -16,7 +16,7 @@ SMODS.Joker{ --Bathtime
         }
     },
     pos = {
-        x = 0,
+        x = 4,
         y = 2
     },
     display_size = {

@@ -16,7 +16,7 @@ SMODS.Joker{ --Royal Rumble
         }
     },
     pos = {
-        x = 1,
+        x = 5,
         y = 1
     },
     display_size = {

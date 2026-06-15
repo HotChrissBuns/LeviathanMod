@@ -16,7 +16,7 @@ SMODS.Joker{ --Squirtle
         }
     },
     pos = {
-        x = 0,
+        x = 4,
         y = 1
     },
     display_size = {

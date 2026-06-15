@@ -18,7 +18,7 @@ SMODS.Joker{ --Do not 3 putt
         }
     },
     pos = {
-        x = 5,
+        x = 9,
         y = 3
     },
     display_size = {

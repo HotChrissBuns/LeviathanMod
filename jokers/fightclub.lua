@@ -16,7 +16,7 @@ SMODS.Joker{ --Fight Club
         }
     },
     pos = {
-        x = 2,
+        x = 7,
         y = 7
     },
     display_size = {

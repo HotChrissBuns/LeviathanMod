@@ -16,8 +16,8 @@ SMODS.Joker{ --Rhett
         }
     },
     pos = {
-        x = 6,
-        y = 7
+        x = 1,
+        y = 8
     },
     display_size = {
         w = 71 * 1, 

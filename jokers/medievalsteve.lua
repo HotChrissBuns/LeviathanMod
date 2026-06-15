@@ -16,8 +16,8 @@ SMODS.Joker{ --Medieval Steve
         }
     },
     pos = {
-        x = 2,
-        y = 10
+        x = 5,
+        y = 11
     },
     display_size = {
         w = 71 * 1, 

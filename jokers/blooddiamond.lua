@@ -16,7 +16,7 @@ SMODS.Joker{ --Blood Diamond
         }
     },
     pos = {
-        x = 3,
+        x = 8,
         y = 7
     },
     display_size = {

@@ -15,8 +15,8 @@ SMODS.Joker{ --A whole new World
         }
     },
     pos = {
-        x = 8,
-        y = 1
+        x = 2,
+        y = 2
     },
     display_size = {
         w = 71 * 1, 

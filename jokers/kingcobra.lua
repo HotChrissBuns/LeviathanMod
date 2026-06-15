@@ -16,7 +16,7 @@ SMODS.Joker{ --King Cobra
         }
     },
     pos = {
-        x = 3,
+        x = 8,
         y = 5
     },
     display_size = {

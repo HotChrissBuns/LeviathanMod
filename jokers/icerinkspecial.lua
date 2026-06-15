@@ -18,8 +18,8 @@ SMODS.Joker{ --Ice rink special
         }
     },
     pos = {
-        x = 9,
-        y = 7
+        x = 4,
+        y = 8
     },
     display_size = {
         w = 71 * 1, 

@@ -2,7 +2,7 @@
 SMODS.Consumable {
     key = 'judgement',
     set = 'Spectral',
-    pos = { x = 7, y = 0 },
+    pos = { x = 8, y = 0 },
     loc_txt = {
         name = 'Enigma',
         text = {

@@ -15,7 +15,7 @@ SMODS.Joker{ --Necromancer
         }
     },
     pos = {
-        x = 1,
+        x = 6,
         y = 6
     },
     display_size = {

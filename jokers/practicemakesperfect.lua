@@ -16,8 +16,8 @@ SMODS.Joker{ --Practice Makes Perfect
         }
     },
     pos = {
-        x = 7,
-        y = 6
+        x = 2,
+        y = 7
     },
     display_size = {
         w = 71 * 1, 

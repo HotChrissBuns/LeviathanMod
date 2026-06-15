@@ -17,8 +17,8 @@ SMODS.Joker{ --Good Mythical Morning
         }
     },
     pos = {
-        x = 7,
-        y = 9
+        x = 8,
+        y = 10
     },
     display_size = {
         w = 71 * 1, 

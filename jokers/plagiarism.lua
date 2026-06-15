@@ -15,7 +15,7 @@ SMODS.Joker{ --Plagiarism
         }
     },
     pos = {
-        x = 3,
+        x = 9,
         y = 8
     },
     display_size = {

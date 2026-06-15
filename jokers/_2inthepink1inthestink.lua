@@ -17,7 +17,7 @@ SMODS.Joker{ --2 in the pink 1 in the stink
         }
     },
     pos = {
-        x = 2,
+        x = 6,
         y = 3
     },
     display_size = {

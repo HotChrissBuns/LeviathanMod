@@ -15,8 +15,8 @@ SMODS.Joker{ --Blue Moon
         }
     },
     pos = {
-        x = 7,
-        y = 1
+        x = 1,
+        y = 2
     },
     display_size = {
         w = 71 * 1, 

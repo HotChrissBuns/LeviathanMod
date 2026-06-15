@@ -1,8 +1,8 @@
 
 SMODS.Booster {
-    key = 'leviathans_bufoons',
+    key = 'leviathans_buffoons',
     loc_txt = {
-        name = "Leviathans Bufoons",
+        name = "Leviathans Buffoons",
         text = {
             [1] = 'Choose {C:attention}1{} of {C:attention}4 {}Leviathan Mod Jokers'
         },
@@ -26,7 +26,7 @@ SMODS.Booster {
             area = G.pack_cards,
             skip_materialize = true,
             soulable = true,
-            key_append = "TDL6615_leviathans_bufoons"
+            key_append = "TDL6615_leviathans_buffoons"
         }
     end,
     ease_background_colour = function(self)
@@ -40,9 +40,9 @@ SMODS.Booster {
     
     
     SMODS.Booster {
-        key = 'leviathans_mega_bufoons',
+        key = 'leviathans_mega_buffoons',
         loc_txt = {
-            name = "Leviathans  Mega Bufoons",
+            name = "Leviathans  Mega Buffoons",
             text = {
                 [1] = 'Choose{C:attention} 2{} of {C:attention}5 {}Leviathan Mod Jokers'
             },
@@ -65,7 +65,7 @@ SMODS.Booster {
                 area = G.pack_cards,
                 skip_materialize = true,
                 soulable = true,
-                key_append = "TDL6615_leviathans_mega_bufoons"
+                key_append = "TDL6615_leviathans_mega_buffoons"
             }
         end,
         ease_background_colour = function(self)
